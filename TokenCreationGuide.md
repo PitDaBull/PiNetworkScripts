@@ -62,4 +62,4 @@ python3 create_token.py
 
 ## All Done
 
-All done, the script should now run properly and create your token, you can verify this by navigating to https://piscan.io/assets and searching you token name and it should be displayed.
+All done, the script should now run properly and create your token, you can verify this by navigating to https://piscan.io/assets and searching your token name and it should be displayed.
